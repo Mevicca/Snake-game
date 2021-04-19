@@ -26,6 +26,6 @@ The game has been classified as five module, which are login/registration, game 
 -	 Log out with the current player creditienal and back to the login window.
 7. Keys to use in the game
 (i) F1 key – Player able to pause or continue the game.
-(ii) F2 key – The player able to choose quit or reset the game without saving the data.  
+(ii) F2 key – The player able to choose quit or reset the game without saving the data.
 (iii) B key - The player will be back to the main menu while it is game over.
 (iv) Arrow key - Each arrow represent the next direction of the snake such as moving down, up, right or down direction.
