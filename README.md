@@ -2,7 +2,7 @@
 Simple snake game by using Java
 
 Screenshot
-[Snake game short video (1Min)]: https://user-images.githubusercontent.com/57023124/129691362-4b88aaf2-8ab4-49d7-bcca-10c0f48be96a.mp4
+[Snake game short video - 1Min](https://user-images.githubusercontent.com/57023124/129691362-4b88aaf2-8ab4-49d7-bcca-10c0f48be96a.mp4)
 
  User Guide
 The game has been classified as five module, which are login/registration, game mode, setting, game and the leaderboard.
